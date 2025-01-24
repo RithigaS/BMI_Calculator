@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BMI_Calculator/static/css/main.e8860908.css",
+    "main.css": "/BMI_Calculator/static/css/main.e7a15f35.css",
     "main.js": "/BMI_Calculator/static/js/main.b6aec39d.js",
     "index.html": "/BMI_Calculator/index.html",
-    "main.e8860908.css.map": "/BMI_Calculator/static/css/main.e8860908.css.map",
+    "main.e7a15f35.css.map": "/BMI_Calculator/static/css/main.e7a15f35.css.map",
     "main.b6aec39d.js.map": "/BMI_Calculator/static/js/main.b6aec39d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8860908.css",
+    "static/css/main.e7a15f35.css",
     "static/js/main.b6aec39d.js"
   ]
 }
